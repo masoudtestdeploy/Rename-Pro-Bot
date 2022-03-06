@@ -1,5 +1,5 @@
 
-# [Rename-Pro-Bot](https://github.com/dakshkohli23/Rename-Pro-Bot) 🔮
+# [Rename-Pro-Bot](https://github.com/masoudtestdeploy/Rename-Pro-Bot) 🔮
 
 A Telegram File Rename Bot With Permanent Thumbnail Support Also It Can Send Files Into 5 Different Channels/Groups!!
 
@@ -38,7 +38,7 @@ These functions can be done in a single download** 😍
 
 ## 🔮 Easy Way :
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NaysaBots/Rename-Pro-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/masoudtestdeploy/Rename-Pro-Bot)
 
 ## 🔮 In Servers Or VPS:
 
