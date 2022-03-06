@@ -13,8 +13,8 @@ class Translation( object ):
                  "➟ Rename File \n➟ Convert to Video/File \n➟ Custom Thumbnail \n➟ Send Media to 5 Different Channels/Groups \n\n" \
                  "<i>Send filename + extension (Eg: onepiece.mkv) as a reply to any telegram media, and follow " \
                  "Bot's instructions.</i>\n\n" \
-                 "<b>👨‍💻 Developer: </b><a href='https://t.me/Dlaize'> Mr. Dlaize</a>\n" \
-                 "<b>🧬 Source Code: </b><a href='https://github.com/dakshkohli23/Rename-Pro-Bot'> Github</a>\n\n"
+                 "<b>👨‍💻 Developer: </b><a href='https://t.me/kenzomovie'> kenzomovie </a>\n" \
+                 ""
     SETTINGS_TEXT = "<b>These are my available options:</b>"
     THUMB_CAPTION = "<code>This image is your current thumbnail, Tap</code><b> DEL THUMB </b><code>if you wish to " \
                     "clear it !</code> "
